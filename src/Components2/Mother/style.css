@@ -1,0 +1,10 @@
+
+div{
+    background-color: lightskyblue;
+    align-items: center;
+    text-align: center;
+    height:300px;
+    display: inline-table;
+    padding: 20px;
+    
+}
